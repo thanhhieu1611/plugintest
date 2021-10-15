@@ -1,0 +1,19 @@
+{
+    "name": "dangh/alecaddd-plugin",
+    "description": "Awesome starter",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hieu Dang",
+            "email": "57908585+thanhhieu1611@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
